@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamilselvan V</h1>
 <h3 align="center">Hello! I'm Tamilselvan V, a passionate Computer Science Engineering student with a deep interest in technology and software development. I love exploring new technologies and applying them to real-world projects. My goal is to continuously learn and grow as a software developer, contributing to innovative solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamilselvan6" alt="tamilselvan6" /></a> </p>
-
 - 🔭 I’m currently working on **Trufit: An online sports instant turf booking system, integrating real-time booking features.**
 
 - 🌱 I’m currently learning **Reactjs, MongoDB**
